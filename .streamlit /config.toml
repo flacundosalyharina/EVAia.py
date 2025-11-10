@@ -2,5 +2,5 @@
 primaryColor = "#a855f7"         
 backgroundColor = "#30223aff"      
 secondaryBackgroundColor = "#2a2a40" 
-textColor = "#f1f1f1"            
+textColor = "#000000"            
 font = "sans serif"
