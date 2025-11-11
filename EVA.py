@@ -5,6 +5,8 @@ from groq import Groq
 
 st.set_page_config(page_title="EVA.ia", page_icon="👍✨🤖")
 
+st.config.theme = 'dark'
+
 # Fuentes personalizadas
 st.markdown("""
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Rajdhani:wght@400;500&display=swap" rel="stylesheet">
@@ -390,4 +392,5 @@ else:
 # backgroundColor="#B8F5D3"
 # secondaryBackgroundColor="#49E48F"
 # textColor="#8F48E5"
+
 # font="sans serif"
